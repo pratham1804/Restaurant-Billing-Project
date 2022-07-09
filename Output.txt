@@ -1,0 +1,45 @@
+ WELCOME TO MY WORLD RESTAURANT
+Enter your Name: VIRAT KOHLI
+Enter your Phone Number: 8956231245
+Welcome  VIRAT KOHLI
+                ::MENU::
+         1.SAMOSA :20
+         2.Tea    :10
+         3.Vadapav:30 
+         0.EXIT
+Enter your choice: 1
+You select Samosa
+How manyplates2
+OK ANYTHING ELSE
+                ::MENU::
+         1.SAMOSA :20
+         2.Tea    :10
+         3.Vadapav:30
+         0.EXIT
+Enter your choice: 2
+You select Tea
+How manycups3
+OK ANYTHING ELSE
+                ::MENU::
+         1.SAMOSA :20
+         2.Tea    :10
+         3.Vadapav:30
+         0.EXIT
+Enter your choice: 3
+You select VadaPav
+How manyplates4
+OK ANYTHING ELSE
+                ::MENU::
+         1.SAMOSA :20
+         2.Tea    :10
+         3.Vadapav:30
+         0.EXIT
+Enter your choice: 0
+VIRAT KOHLI Your Bill : 190
+sr.     |       Item    |       Qty     |       Price   |       Total
+------------------------------------------------------------------------------------
+1       |       Samosa  |        2      |       20      |        40
+2       |       Tea     |        3      |       10      |        30
+3       |       Vadapav |        4      |       30      |        120
+------------------------------------------------------------------------------------
+                                                  total : 190
